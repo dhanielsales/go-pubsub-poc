@@ -12,7 +12,7 @@ Configurações necessárias para rodar a POC:
 docker run --name redis -d -p 6379:6379 redis redis-server
 ```
 
-- Configurar a URL do Redis em um arquivo `.env`, de acordo com o `.env.example`
+- Criar e configurar a URL do Redis em um arquivo `.env`, de acordo com o `.env.example`
 
 Após as configurações, basta rodar o `worker`:
 
