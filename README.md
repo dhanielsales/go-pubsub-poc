@@ -41,5 +41,5 @@ Após ser feito uma requisição `POST` para a rota `/client`, será mostrado no
 
 ## Referencias:
 
-- [PubSub]("https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern")
-- [Redis]("https://redis.io/")
+- [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+- [Redis](https://redis.io/)
