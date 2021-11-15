@@ -6,7 +6,7 @@ Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilid
 
 Configurações necessárias para rodar a POC:
 
-- Ter um Redis rodando para a aplicação, comendo utilizar criar um container com o docker.
+- Ter um Redis rodando para a aplicação, recomendo utilizar um container com o docker.
 
 ```sh
 docker run --name redis -d -p 6379:6379 redis redis-server
